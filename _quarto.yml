@@ -5,7 +5,7 @@ website:
   title: "Nathan Wu"
   twitter-card: true
   site-url: https://nathanjwu.me
-  favicon: favicon.io
+  favicon: favicon.png
   navbar:
     left:
       - href: index.qmd
