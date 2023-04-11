@@ -15,9 +15,5 @@ website:
 format:
   html:
     light: cosmo
-    dark: slate
     css: styles.css
     toc: true
-
-editor: visual
-

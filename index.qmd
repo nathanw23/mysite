@@ -5,15 +5,20 @@ about:
   template: trestles
   image-shape: round
   links: 
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/nathan-j-wu
-    - text: Twitter
+    - icon: twitter
+      text: Twitter
       href: https://twitter.com/NathanJWu
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/nathanw23
-    - text: Scholar
+    - icon: google
+      text: Scholar
       href: https://scholar.google.com/citations?user=-m_hq9gAAAAJ&hl=en&oi=sra
-    - text: Email
+    - icon: envelope-fill
+      text: Email
       href: mailto:N.Wu@ed.ac.uk
 ---
 
