@@ -11,6 +11,10 @@ website:
       - href: index.qmd
         text: Home
       - href: posts.qmd
+        text: Blog
+  page-footer:
+    left: "This website was built with [Quarto](https://www.quarto.org)"
+    right: "© 2023 Nathan Wu"
 
 format:
   html:
