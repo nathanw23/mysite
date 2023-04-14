@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Nathan Wu",
     "section": "",
-    "text": "Education\nMSc in Biotechnology (2019) | University of Edinburgh\nBSc in Biochemistry (2018) | Liverpool John Moores University"
+    "text": "Biography\nI am a PhD student at the Institute for Bioengineering at the University of Edinburgh. I am based in the Dunn Group and work on DNA nanotechnology-based methods to detect cancer biomarkers such as circulating tumour DNA. In addition to this research, I am interested in synthetic biology for biomedical applications.\n\n\nEducation\nMSc in Biotechnology (2019) | University of Edinburgh\nBSc in Biochemistry (2018) | Liverpool John Moores University"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "My Blog",
     "section": "",
-    "text": "No matching items"
+    "text": "Analysis Tools CLI\n\n\n\nSoftware\n\n\nAnalysis\n\n\nPython\n\n\n\nA suite of command line tools for common fluorescence data analysis\n\n\n\nNathan Wu\n\n\nApr 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/20230414-analysis-tools/post.html",
+    "href": "posts/20230414-analysis-tools/post.html",
+    "title": "Analysis Tools CLI",
+    "section": "",
+    "text": "As part of my PhD I’ve developed a suite of command line tools to automate cleanup and plotting of data related to fluorescence data. The software tools can be found on my GitHub."
   }
 ]
