@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nathanjwu.me/index.html</loc>
-    <lastmod>2023-04-14T15:41:53.381Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nathanjwu.me/posts/20230414-analysis-tools/post.html</loc>
-    <lastmod>2023-04-14T15:41:54.066Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nathanjwu.me/posts/20230414-systematic-review/post.html</loc>
-    <lastmod>2023-04-14T15:41:54.679Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nathanjwu.me/posts.html</loc>
-    <lastmod>2023-04-14T15:41:55.342Z</lastmod>
-  </url>
-  <url>
     <loc>https://nathanw23.github.io/index.html</loc>
-    <lastmod>2023-04-14T15:45:25.397Z</lastmod>
+    <lastmod>2023-04-14T15:58:29.926Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nathanw23.github.io/posts/20230414-analysis-tools/post.html</loc>
+    <lastmod>2023-04-14T15:58:30.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nathanw23.github.io/posts/20230414-systematic-review/post.html</loc>
+    <lastmod>2023-04-14T15:58:31.290Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nathanw23.github.io/posts.html</loc>
+    <lastmod>2023-04-14T15:58:31.996Z</lastmod>
   </url>
 </urlset>
