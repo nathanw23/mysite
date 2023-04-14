@@ -14,6 +14,6 @@ website:
 
 format:
   html:
-    light: cosmo
+    light: darkly
     css: styles.css
     toc: true
