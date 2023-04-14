@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nathanjwu.me/index.html</loc>
-    <lastmod>2023-04-14T10:57:50.397Z</lastmod>
+    <lastmod>2023-04-14T11:14:37.771Z</lastmod>
   </url>
   <url>
     <loc>https://nathanjwu.me/posts/20230414-analysis-tools/post.html</loc>
-    <lastmod>2023-04-14T10:57:50.769Z</lastmod>
+    <lastmod>2023-04-14T11:14:38.142Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nathanjwu.me/posts/20230414-systematic-review/post.html</loc>
+    <lastmod>2023-04-14T11:14:38.590Z</lastmod>
   </url>
   <url>
     <loc>https://nathanjwu.me/posts.html</loc>
-    <lastmod>2023-04-14T10:57:51.124Z</lastmod>
+    <lastmod>2023-04-14T11:14:39.022Z</lastmod>
   </url>
 </urlset>

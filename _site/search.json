@@ -14,10 +14,17 @@
     "text": "As part of my PhD I’ve developed a suite of command line tools to automate cleanup and plotting of data related to fluorescence data. The software tools can be found on my GitHub."
   },
   {
+    "objectID": "posts/20230414-systematic-review/post.html",
+    "href": "posts/20230414-systematic-review/post.html",
+    "title": "Systematic Review Publication",
+    "section": "",
+    "text": "Technologies for quantifying circulating tumour DNA (ctDNA) in liquid biopsies could enable real-time measurements of cancer progression, profoundly impacting patient care. Sequencing methods can be too complex and time-consuming for regular point-of-care monitoring, but nanotechnology offers an alternative, harnessing the unique properties of objects tens to hundreds of nanometres in size. This systematic review was performed to identify all examples of nanotechnology-based ctDNA detection and assess their potential for clinical use. Google Scholar, PubMed, Web of Science, Google Patents, Espacenet and Embase/MEDLINE were searched up to 23rd March 2021. The review identified nanotechnology-based methods for ctDNA detection for which quantitative measures (e.g., limit of detection, LOD) were reported and biologically relevant samples were used. The pre-defined inclusion criteria were met by 66 records. LODs ranged from 10 zM to 50nM. 25 records presented an LOD of 10fM or below. Nanotechnology-based approaches could provide the basis for the next wave of advances in ctDNA diagnostics, enabling analysis at the point-of-care, but none are currently used clinically. Further work is needed in development and validation; trade-offs are expected between different performance measures e.g., number of sequences detected and time to result."
+  },
+  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "My Blog",
     "section": "",
-    "text": "Software\n\n\nAnalysis\n\n\nPython\n\n\n\nA suite of command line tools for common fluorescence data analysis.\n\n\n\nNathan Wu\n\n\nApr 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Software\n\n\nAnalysis\n\n\nPython\n\n\n\nA suite of command line tools for common fluorescence data analysis.\n\n\n\nNathan Wu\n\n\nApr 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublication\n\n\nctDNA\n\n\nNanotechnology\n\n\n\nThe application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review\n\n\n\nNathan Wu\n\n\nApr 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
