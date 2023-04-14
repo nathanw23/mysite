@@ -19,6 +19,6 @@ website:
 
 format:
   html:
-    light: darkly
+    light: minty
     css: styles.css
     toc: true
