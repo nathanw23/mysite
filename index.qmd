@@ -3,7 +3,6 @@ title: "Nathan Wu"
 image: avatar.png
 about:
   template: solana
-  #image-shape: round
   links: 
     - icon: linkedin
       text: LinkedIn
