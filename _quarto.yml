@@ -14,7 +14,7 @@ website:
       - href: posts.qmd
         text: Blog
   page-footer:
-    left: "This website was built with [Quarto](https://www.quarto.org)"
+    left: "This website is built with ❤️ and [Quarto](https://quarto.org/)"
     right: "© 2023 Nathan Wu"
 
 format:
