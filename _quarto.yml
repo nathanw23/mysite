@@ -15,7 +15,7 @@ website:
         text: Blog
   page-footer:
     left: "This website is built with ❤️ and [Quarto](https://quarto.org/)"
-    right: "© Nathan Wu 2023"
+    right: "© 2023 Nathan Wu"
 
 format:
   html:
