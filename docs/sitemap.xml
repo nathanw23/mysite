@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nathanw23.github.io/index.html</loc>
-    <lastmod>2023-04-19T14:14:57.866Z</lastmod>
+    <lastmod>2023-04-21T09:49:57.821Z</lastmod>
   </url>
   <url>
     <loc>https://nathanw23.github.io/posts/20230414-analysis-tools/post.html</loc>
@@ -15,5 +15,9 @@
   <url>
     <loc>https://nathanw23.github.io/posts.html</loc>
     <lastmod>2023-04-19T14:15:01.601Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nathanw23.github.io/resources.html</loc>
+    <lastmod>2023-04-21T10:05:29.670Z</lastmod>
   </url>
 </urlset>
