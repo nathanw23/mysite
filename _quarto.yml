@@ -4,7 +4,8 @@ project:
 
 website:
   title: "Nathan Wu"
-  twitter-card: true
+  twitter-card:
+   creator: "@NathanJWu"
   site-url: https://nathanw23.github.io
   favicon: favicon.png
   navbar:
