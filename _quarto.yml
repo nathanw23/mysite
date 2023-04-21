@@ -15,6 +15,11 @@ website:
         text: Posts
       - href: resources.qmd
         text: Resources
+    right: 
+      - icon: github
+        href: https://github.com/nathanw23
+      - icon: twitter
+        href: https://twitter.com/NathanJWu
   page-footer:
     left: "This website is built with ❤️ and [Quarto](https://quarto.org/)"
     right: "© 2023 Nathan Wu"
