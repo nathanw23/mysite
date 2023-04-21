@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -159,18 +159,21 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Software,Analysis,Python" data-listing-date-sort="1681426800000" data-listing-file-modified-sort="1681479520729" data-listing-reading-time-sort="0.215">
-<a href="./posts/20230414-analysis-tools/post.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/20230414-analysis-tools/analysis-tools.PNG" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Software,Analysis,Python" data-listing-date-sort="1681426800000" data-listing-file-modified-sort="1681479520729" data-listing-reading-time-sort="0.215">
+<div class="thumbnail">
+<p><a href="./posts/20230414-analysis-tools/post.html"> <img src="./posts/20230414-analysis-tools/analysis-tools.PNG" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/20230414-analysis-tools/post.html">
+<h3 class="no-anchor listing-title">
 Analysis Tools CLI
-</h5>
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Software'); return false;">
 Software
@@ -182,31 +185,36 @@ Analysis
 Python
 </div>
 </div>
-<div class="card-text listing-description">
-A suite of command line tools for common fluorescence data analysis.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Nathan Wu
-</div>
-<div class="listing-date">
-Apr 14, 2023
-</div>
-</div>
-</div>
+<a href="./posts/20230414-analysis-tools/post.html">
+<div class="listing-description">
+<p>A suite of command line tools for common fluorescence data analysis.</p>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Publication,ctDNA,Nanotechnology" data-listing-date-sort="1681426800000" data-listing-file-modified-sort="1681471427456" data-listing-reading-time-sort="0.975">
-<a href="./posts/20230414-systematic-review/post.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/20230414-systematic-review/sysrev-header.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
+<div class="metadata">
+<a href="./posts/20230414-analysis-tools/post.html">
+<div class="listing-date">
+Apr 14, 2023
+</div>
+<div class="listing-author">
+Nathan Wu
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Publication,ctDNA,Nanotechnology" data-listing-date-sort="1681426800000" data-listing-file-modified-sort="1681471427456" data-listing-reading-time-sort="0.975">
+<div class="thumbnail">
+<p><a href="./posts/20230414-systematic-review/post.html"> <img src="./posts/20230414-systematic-review/sysrev-header.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/20230414-systematic-review/post.html">
+<h3 class="no-anchor listing-title">
 Systematic Review Publication
-</h5>
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Publication'); return false;">
 Publication
@@ -218,20 +226,22 @@ ctDNA
 Nanotechnology
 </div>
 </div>
-<div class="card-text listing-description">
-The application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review
+<a href="./posts/20230414-systematic-review/post.html">
+<div class="listing-description">
+<p>The application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review</p>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Nathan Wu
+</a>
 </div>
+<div class="metadata">
+<a href="./posts/20230414-systematic-review/post.html">
 <div class="listing-date">
 Apr 14, 2023
 </div>
-</div>
-</div>
+<div class="listing-author">
+Nathan Wu
 </div>
 </a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
