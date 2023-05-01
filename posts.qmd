@@ -5,4 +5,8 @@ listing:
   type: default
   sort: "date desc"
   categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, author, description, categories, reading-time]
+page-layout: full
 ---
