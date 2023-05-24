@@ -8,7 +8,7 @@ image: analysis-tools.PNG
 draft: false
 ---
 
-As part of my PhD I've developed a suite of command line tools to automate cleanup and plotting of data related to fluorescence data. The software tools can be found on my [GitHub](https://www.github.com/nathanw23/Analysis-Tools). A web version with limited tools can be found [here](https://labanalysistools.streamlit.app/).
+As part of my PhD I've developed a suite of command line tools to automate cleanup and plotting of data related to fluorescence data. The software tools can be found on my [GitHub](https://www.github.com/nathanw23/Analysis-Tools). A web version with limited tools is embedded below.
 
 <iframe
   src="https://labanalysistools.streamlit.app/?embed=true"
