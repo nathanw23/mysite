@@ -49,10 +49,10 @@
     "text": "Accessibility\n\nCoblis, a colour blind simulator to check figures for accessibility"
   },
   {
-    "objectID": "resources.html#other",
-    "href": "resources.html#other",
+    "objectID": "resources.html#latex",
+    "href": "resources.html#latex",
     "title": "Resources",
-    "section": "Other",
-    "text": "Other\n\nTable Convert, a web app to convert tables from markdown to LaTeX and other formats"
+    "section": "LaTeX",
+    "text": "LaTeX\n\nTable Convert, a web app to convert tables from markdown to LaTeX and other formats"
   }
 ]
