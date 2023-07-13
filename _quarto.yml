@@ -12,6 +12,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: Research
+        menu:
+        - text: Posters
+          href: posters.qmd
       - href: posts.qmd
         text: Posts
       - href: resources.qmd
@@ -27,6 +31,6 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: united
     css: styles.css
     toc: true
