@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/posters.html",
-    "items": []
-  },
-  {
     "listing": "/posts.html",
     "items": [
       "/posts/20230414-analysis-tools/post.html",

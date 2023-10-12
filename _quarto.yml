@@ -14,6 +14,8 @@ website:
         text: Home
       - text: Research
         menu:
+        - text: Papers
+          href: papers.qmd
         - text: Posters
           href: posters.qmd
       - href: posts.qmd
@@ -31,6 +33,7 @@ website:
 
 format:
   html:
-    theme: united
+    theme: flatly
     css: styles.css
     toc: true
+    page-layout: full
