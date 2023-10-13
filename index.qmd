@@ -1,6 +1,8 @@
 ---
 title: "Nathan Wu"
 image: avatar.jpg
+toc: false
+title-block-banner: false
 about:
   template: trestles
   image-shape: round
