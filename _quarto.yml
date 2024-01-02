@@ -29,7 +29,7 @@ website:
         href: https://twitter.com/NathanJWu
   page-footer:
     left: "This website is built with ❤️ and [Quarto](https://quarto.org/)"
-    right: "© 2023 Nathan Wu"
+    right: "© 2024 Nathan Wu"
 
 format:
   html:
