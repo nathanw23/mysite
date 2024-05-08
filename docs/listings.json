@@ -1,9 +1,12 @@
 [
   {
     "listing": "/posts.html",
+    "items": []
+  },
+  {
+    "listing": "/papers.html",
     "items": [
-      "/posts/20230414-analysis-tools/post.html",
-      "/posts/20230414-systematic-review/post.html"
+      "/publications/wu2022.html"
     ]
   }
 ]

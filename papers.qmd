@@ -1,7 +1,11 @@
 ---
 title: "Papers"
+listing: 
+  contents: publications
+  type: default
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [year, title, categories]
 ---
-
-## 2022
-
-**N. J. W. Wu** et al., ["The Application of Nanotechnology for Quantification of Circulating Tumour DNA in Liquid Biopsies: A Systematic Review,"](https://doi.org/10.1109/RBME.2022.3159389) in IEEE Reviews in Biomedical Engineering, vol. 16, pp. 499-513
