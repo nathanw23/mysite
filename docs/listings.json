@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/posts.html",
+    "items": []
+  },
+  {
     "listing": "/papers.html",
     "items": [
       "/publications/wu2022.html"
