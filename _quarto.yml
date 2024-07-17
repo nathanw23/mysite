@@ -18,6 +18,8 @@ website:
           href: papers.qmd
         - text: Posters
           href: posters.qmd
+      - href: posts.qmd
+        text: Blog
       - href: resources.qmd
         text: Resources
 
