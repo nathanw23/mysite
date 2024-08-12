@@ -7,10 +7,11 @@ subtitle:  A collection of resources that I find helpful
 
 - [Datawrapper](https://www.datawrapper.de), for creating interactive and responsive charts and maps
 - [Data Viz Project](https://datavizproject.com), for data visualisation inspiration
+- [Wado Sanzo](https://sanzo-wada.dmbk.io), a dictionary of colour combinations
 
 ## Accessibility
 
-- [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator), a colour blind simulator to check figures for accessibility
+- [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator), a colour-blind simulator to check figures for accessibility
 
 ## LaTeX
 
