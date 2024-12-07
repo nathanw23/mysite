@@ -19,9 +19,6 @@ about:
     - icon: google
       text: Scholar
       href: https://scholar.google.com/citations?user=-m_hq9gAAAAJ&hl=en&oi=sra
-    - icon: envelope-fill
-      text: Email
-      href: mailto:N.Wu@ed.ac.uk
 ---
 
 # Biography
