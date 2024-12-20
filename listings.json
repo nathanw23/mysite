@@ -1,14 +1,12 @@
 [
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/Test/index.html"
-    ]
-  },
-  {
     "listing": "/papers.html",
     "items": [
       "/publications/wu2022.html"
     ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": []
   }
 ]
